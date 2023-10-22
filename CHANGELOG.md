@@ -5,6 +5,7 @@
 ### New Features
 
 - Expose prompts in different modules (query engines, synthesizers, and more) (#8275)
+- Consolidates `LocalAI` into a parameterization of `OpenAILike` (#8241)
 
 ## [0.8.49] - 2023-10-23
 
