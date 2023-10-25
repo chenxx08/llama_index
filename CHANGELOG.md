@@ -5,6 +5,7 @@
 ### New Features
 
 - Expose prompts in different modules (query engines, synthesizers, and more) (#8275)
+- Moves `HuggingFaceEmbedding` to center on `Pooling` enum for pooling (#8467)
 
 ## [0.8.49] - 2023-10-23
 
